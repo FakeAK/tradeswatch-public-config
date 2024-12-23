@@ -4,5 +4,11 @@
         "old_asset": "MATIC",
         "new_asset": "POL",
         "changed_after": "2024-09-10T02:59:00Z"
+    },
+    {
+        "exchange": "binance",
+        "old_asset": "RNDR",
+        "new_asset": "RENDER",
+        "changed_after": "2024-07-22T02:59:00Z"
     }
 ]
